@@ -1,7 +1,7 @@
 {
     "name": "ahmetbedir/laroute",
     "description": "Access Laravels URL/Route helper functions, from JavaScript.",
-    "keywords"  : ["laravel", "routes", "routing", "javascript"],    ],
+    "keywords"  : ["laravel", "routes", "routing", "javascript"],
     "license" : "MIT",
     "require": {
         "php" : ">=5.4.0"
